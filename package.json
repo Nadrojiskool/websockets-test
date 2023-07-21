@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "dev": "node index.js",
+    "create-env": "node ./utils/env-setup.js"
+  },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.20.0"
   }
 }
