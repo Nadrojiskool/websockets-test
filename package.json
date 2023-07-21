@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "dotenv": "^16.3.1",
+    "dubby-sdk-test": "^0.0.23",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.20.0"
   }
 }
